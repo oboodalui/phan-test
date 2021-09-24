@@ -1,0 +1,9 @@
+{
+    "port": 8100,
+    "passphrase": "kosa",
+    "guild": "633243460983586817",
+    "bots": [{
+        "channel": "mta",
+        "token": "ODg5MTk5NTY3MzIzNjgwODA5.YUdxoQ.IOkoeL6YTF7g1JGwZZshZ51AINY"
+    }]
+}
